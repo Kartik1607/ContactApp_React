@@ -1,0 +1,38 @@
+.mainTitle {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2em;
+  color: white
+}
+
+.headerButton {
+  background: transparent;
+  color:white
+}
+
+.headerButton:focus {
+  box-shadow: none;
+}
+
+.header {
+  background: black;
+  border-radius: 0 0 30px 30px;
+  padding: 20px;
+  margin-bottom: 50px
+}
+
+.form-group label {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 1.2em;
+  color: black
+}
+
+.form-group {
+  margin-bottom: 1.4em
+}
+
+.list-group-item:hover {
+  background: black;
+  color:white;
+}
